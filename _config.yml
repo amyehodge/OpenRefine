@@ -10,7 +10,7 @@
 carpentry: "dc"
 
 # Overall title for pages.
-title: "Openrefine for Ecology data"
+title: "Stanford Data Cleaning with OpenRefine"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -25,7 +25,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "amyhodge@stanford.edu"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"

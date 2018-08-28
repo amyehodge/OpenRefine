@@ -8,7 +8,6 @@ questions:
 objectives:
 - "Transform a text column into a number column."
 - "Identify and modify non-numeric values in a column using facets."
-- "Use scatterplot facet to examine relationships among columns."
 keypoints:
 - "OpenRefine also provides ways to get overviews of numerical data."
 ---
